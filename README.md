@@ -10,7 +10,7 @@ Personal Bookshelf is a web application that allows users to manage and store th
 
 ## Technologies Used
 
-- Frontend: HTML, CSS, JavaScript, React.js
+- Frontend: React.js
 - Backend: None (Client-side application)
 - External APIs: Open Library API (for book search)
 
